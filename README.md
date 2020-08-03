@@ -12,7 +12,7 @@ The code is free to everyone to use as you like.
 
 ## Donation
 
-If you like the app, share some love :)
+If you like this app, help me make better ones
 
 ![btc_address](https://user-images.githubusercontent.com/24822099/49712752-218e5680-fc5b-11e8-8f01-77c88bf02b83.png)
 
