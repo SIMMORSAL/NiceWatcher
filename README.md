@@ -5,6 +5,10 @@ Unofficial NiceHash app for checking your mining status and being notified of ev
 
 If you have any issues with the app, please open an issue here.
 
+## Licence
+
+The code is free to everyone to use as you like.
+
 
 ## Donation
 
